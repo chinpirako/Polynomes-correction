@@ -1,2 +1,2 @@
 # Polynomes
-Exemple pour les M2
+Exemple de programme en Java
